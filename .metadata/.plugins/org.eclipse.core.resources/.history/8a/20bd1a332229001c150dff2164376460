@@ -1,0 +1,5 @@
+package gmc.learning.cloud.api.users.ui.models;
+
+public class UserResponseModel {
+
+}
